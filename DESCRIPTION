@@ -1,0 +1,9 @@
+Package: tnorm
+Title: Univariate and Multivariate Truncated Normal Distributions
+Version: 0.0.0.9000
+Authors@R: person("Haziq", "Jamil", email = "haziq.jamil@gmail.com", role = c("aut", "cre"))
+Description: Univariate and Multivariate Truncated Normal Distributions.
+Depends: R (>= 3.4.3)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
